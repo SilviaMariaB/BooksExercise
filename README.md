@@ -1,5 +1,4 @@
 # ExercisesOOP
-/*
  * Create an Author class
     * Properties:
         * name
@@ -28,8 +27,6 @@
         * One for just name, no books
         * One for name and list of books
             * Call base name only constructor (avoid duplicate code)
-        * One for name and a singular book
-            * Call base name only constructor (avoid duplicate code)
     * Override toString to give formatted output
  *   
  * Main:
@@ -40,4 +37,4 @@
     * Make a new list of 3 books
     * Update previous Person to use the new book list
     * Iterate through the list of a persons book and output them all
-*/
+
